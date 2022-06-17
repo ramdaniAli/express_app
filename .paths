@@ -1,0 +1,7 @@
+$config = /src/config
+$services = /src/services
+$db = /src/db
+$middlewares = /src/middlewares
+$routes = /src/routes
+$views = /src/views
+$media = /public
