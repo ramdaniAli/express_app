@@ -1,5 +1,10 @@
-# express_app_starter
- 
-# npm install 
 
-# npm run mondev
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install
+  npm run mon dev
+```
+    
